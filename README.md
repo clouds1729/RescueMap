@@ -82,14 +82,6 @@ If `node_modules` cannot be deleted under `/mnt/c` because Windows is locking fi
 - `docs/screenshots/qa.png`
 - `docs/screenshots/routing.png`
 
-## Resume Bullets
-
-- Built a full-stack public-safety GIS platform that converts floor plan PDFs/images into editable indoor GIS layers for emergency response workflows.
-- Implemented an OpenCV vectorization pipeline using thresholding, morphology, Hough line detection, and segment merging to extract wall-like features from raster floor plans.
-- Designed a GeoJSON data model for walls, rooms, doors, exits, stairwells, hazards, restricted areas, and emergency routes using local floorplan coordinates.
-- Added manual digitization tools for drawing and editing rooms, exits, doors, hazards, and restricted areas on top of the original floor plan image.
-- Built GIS QA checks for invalid polygons, overlapping rooms, missing labels, missing exits, isolated doors, malformed FeatureCollections, and rooms without routes to exits.
-- Implemented indoor routing from selected points or rooms to the nearest emergency exit using graph construction and shortest-path search.
 
 ## Future Work
 
