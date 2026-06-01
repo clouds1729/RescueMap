@@ -77,10 +77,7 @@ If `node_modules` cannot be deleted under `/mnt/c` because Windows is locking fi
 
 ## Screenshots
 
-- `docs/screenshots/upload.png`
-- `docs/screenshots/vectorized.png`
-- `docs/screenshots/qa.png`
-- `docs/screenshots/routing.png`
+- <img width="3360" height="1882" alt="image" src="https://github.com/user-attachments/assets/7c9c3f79-8cb9-47b5-b1fb-f00735938b05" />
 
 
 ## Future Work
