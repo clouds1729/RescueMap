@@ -1,0 +1,13 @@
+.runtime/
+__pycache__/
+.pytest_cache/
+.venv/
+node_modules/
+dist/
+playwright-report/
+test-results/
+.DS_Store
+
+.venv/
+services/api/.venv/
+apps/web/node_modules/
